@@ -1,0 +1,6 @@
+
+//else{
+//    echo "Database Connected.!";
+//}
+
+?>
